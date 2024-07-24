@@ -103,8 +103,8 @@
             <mxPoint x="270" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JOBz8TN4OKXXRCp3LiLq-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Weak Entity&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="804" width="60" height="30" as="geometry" />
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-27" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Weak Entity&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="804" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JOBz8TN4OKXXRCp3LiLq-28" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
