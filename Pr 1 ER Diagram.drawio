@@ -1,9 +1,189 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.7.4">
   <diagram name="Page-1" id="ZmaaxPEKacd1PODmkERw">
-    <mxGraphModel>
+    <mxGraphModel dx="1042" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-1" value="Name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-2" value="Address" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-3" value="Student" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-4" value="Id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-5" value="Age" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.24;entryY=0.93;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JOBz8TN4OKXXRCp3LiLq-3" target="JOBz8TN4OKXXRCp3LiLq-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="320" as="sourcePoint" />
+            <mxPoint x="500" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JOBz8TN4OKXXRCp3LiLq-4" target="JOBz8TN4OKXXRCp3LiLq-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="343" as="sourcePoint" />
+            <mxPoint x="332" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JOBz8TN4OKXXRCp3LiLq-3" target="JOBz8TN4OKXXRCp3LiLq-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="200" as="sourcePoint" />
+            <mxPoint x="300" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JOBz8TN4OKXXRCp3LiLq-3" target="JOBz8TN4OKXXRCp3LiLq-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="320" as="sourcePoint" />
+            <mxPoint x="450" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-11" value="ER Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="600" as="sourcePoint" />
+            <mxPoint x="560" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="600" as="sourcePoint" />
+            <mxPoint x="400" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="600" as="sourcePoint" />
+            <mxPoint x="240" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="600" as="sourcePoint" />
+            <mxPoint x="560" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="389.5" y="600" as="sourcePoint" />
+            <mxPoint x="389.5" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Entity&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="680" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-21" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Attribute&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="680" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-22" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Relation&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="680" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-23" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="960.800048828125" as="sourcePoint" />
+            <mxPoint x="240" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="389.5" y="960.800048828125" as="sourcePoint" />
+            <mxPoint x="389.5" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-26" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="820" as="sourcePoint" />
+            <mxPoint x="270" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Weak Entity&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="804" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-28" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="821" as="sourcePoint" />
+            <mxPoint x="420" y="821" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-29" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="880" as="sourcePoint" />
+            <mxPoint x="420" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-30" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="930" as="sourcePoint" />
+            <mxPoint x="420" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="770" as="sourcePoint" />
+            <mxPoint x="420" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-32" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="559.5" y="960.800048828125" as="sourcePoint" />
+            <mxPoint x="559.5" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-33" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="821" as="sourcePoint" />
+            <mxPoint x="590" y="821" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-34" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="880" as="sourcePoint" />
+            <mxPoint x="590" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="930" as="sourcePoint" />
+            <mxPoint x="590" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-36" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="770" as="sourcePoint" />
+            <mxPoint x="590" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-37" value="Key" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="405" y="754" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-38" value="Composite" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="423" y="805" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-39" value="Multivalued" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="424" y="864" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-40" value="Derived" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="416" y="915" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-41" value="One to One&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="754" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-42" value="One to Many" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="805" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-43" value="Many to One" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="864" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JOBz8TN4OKXXRCp3LiLq-44" value="Many to Many" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="575" y="915" width="115" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
